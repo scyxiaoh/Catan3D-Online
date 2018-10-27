@@ -1,0 +1,28 @@
+﻿
+public enum pgCardType{
+	Alchemist = 0,
+	Crane = 1,
+	Engineer = 2,
+	Inventor = 3,
+	Irrigation = 4,
+	Medicine = 5,
+	Mining = 6,
+	Printer = 7,
+	Road_Building = 8,
+	Smith = 9,
+	Bishop = 10,
+	Constitution = 11,
+	Deserter = 12,
+	Diplomat = 13,
+	Intrigue = 14,
+	Saboteur = 15,
+	Spy = 16,
+	Warlord = 17,
+	Wedding = 18,
+	Commercial_Harbor = 19,
+	Master_Merchant = 20,
+	Merchant = 21,
+	Merchant_Fleet = 22,
+	Resource_Monopoly = 23,
+	Trade_Monopoly = 24
+}
